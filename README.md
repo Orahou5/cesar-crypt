@@ -1,6 +1,6 @@
 # cesar-crypt
 
-Un cryptage en méthode César sous React
+### Un cryptage en méthode César sous React
 
 Pour l'utiliser en local, faites la 1ère fois : 
 
